@@ -45,7 +45,11 @@ print(yTest.head(5))
 
 # Test des prédictions
 yPred = model.predict(xTest)
-prediction = model.predict([[30.482799, -9.3192116, 1, 72, 1, 8, 40]])
+prediction = model.predict([
+    [30.48492, -9.35111, 1, 16, 1, 8, 59],
+    [30.48492, -9.35111, 2, 16, 1, 8, 59],
+    [30.48492, -9.35111, 3, 16, 1, 8, 59],
+])
 print("predection: " + str(prediction))
 # Taux de precision des prédictions
 print("Taux de precision des prédictions")
