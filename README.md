@@ -35,5 +35,4 @@ machine learning and prediction result
 ![image](https://user-images.githubusercontent.com/52482256/155149577-ead38c4c-36b8-4433-9f12-2ebc03ffd4db.png)
 
 
-
-you can contact me on this email: omarbailal45@gmail.com
+email: omarbailal45@gmail.com
